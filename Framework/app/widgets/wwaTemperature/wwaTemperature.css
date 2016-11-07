@@ -26,6 +26,7 @@
 .wwa-temperature-body {
     position: relative;
     text-align: center;
+    -ms-background-size: cover;
     background-size: cover;
     background-position: center;
     width: 100%;
